@@ -1,0 +1,17 @@
+.user {
+    border: 2px solid #2563eb;
+    border-radius: 10px;
+    height: 35px;
+    width: 250px;
+    padding-left: 1rem;
+    color: #2563eb;
+    background: transparent;
+}
+
+.user::placeholder {
+    color: #2563eb;
+}
+
+.user:focus {
+    outline: none;
+}

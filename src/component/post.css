@@ -1,0 +1,12 @@
+.input-text{
+    /* border: 2px solid #3b82f6; */
+    border-radius: 12px;
+    height: 40px;
+    font-size: 18px;
+    width: 100%;
+    padding-left: 1rem;
+    background-color: #fff;
+}
+.input-text:focus{
+    outline: none;
+}
